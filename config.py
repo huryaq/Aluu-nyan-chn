@@ -39,7 +39,7 @@ START_PIC = os.environ.get("START_PIC", "https://envs.sh/y-S.jpg")
 FORCE_PIC = os.environ.get("FORCE_PIC", "https://envs.sh/y-W.jpg")
 
 #text
-HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+sWjn-J89xaVhMDAx>Clickhere</a></b>"
+HELP_TXT = "<b>Hi Dude!\n\nTo use this bot you just have to join both channels that's it..\nWatch Tutorial to open Link - <a href=https://t.me/+29AXIfpxNYNhZWJl>Clickhere</a></b>"
 ABOUT_TXT = "<b><i>About Us..\n\n‣ Made for : @Ecchi_Network\n‣ Owned by : @Amex_Fushiguro\n‣ Maintained by : @Amex_Fushiguro\n\n Adios !!</i></b>"
 SHORT_MSG = "Your Link is down here click on Short URL.."
 
