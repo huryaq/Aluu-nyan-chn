@@ -30,7 +30,7 @@ DB_NAME = os.environ.get("DATABASE_NAME", "AlyaFilesBot")
 
 #force sub channel id, if you want enable force sub
 FORCESUB_CHANNEL = int(os.environ.get("FORCESUB_CHANNEL", "-1002360962434"))
-FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002292347562"))
+FORCESUB_CHANNEL2 = int(os.environ.get("FORCESUB_CHANNEL2", "-1002434697731"))
 
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
@@ -65,7 +65,7 @@ PROTECT_CONTENT = True if os.environ.get('PROTECT_CONTENT', "False") == "True" e
 DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True'
 
 #Short Url or Api
-SHORT_URL = os.environ.get("SHORTNER_URL", "Anylinks.in")
+SHORT_URL = os.environ.get("SHORTNER_URL", "inshorturl.com")
 SHORT_API = os.environ.get("SHORTNER_API", "801aa0afef587c0c7a3d1d6143cfaf334fe4fe54")
 
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
